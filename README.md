@@ -15,6 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+#Features
+
+- Get Worldwide Covid 19 cases
+- Country wise data
+- Realtime search based on country name
+- Data in the form of pie chart
+
 # Screenshots
 
 ![covidapp1](https://user-images.githubusercontent.com/51479606/92599759-4e581d80-f2c8-11ea-95c2-2bb6eaa04976.jpg)
