@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-![WhatsApp Image 2020-09-09 at 12 19 15 AM](https://user-images.githubusercontent.com/51479606/92595739-76dd1900-f2c2-11ea-956d-66261df2e5df.jpeg)
+![covidapp1](https://user-images.githubusercontent.com/51479606/92596608-b2c4ae00-f2c3-11ea-8617-7ce913856d14.jpg)
+
 
