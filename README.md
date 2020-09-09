@@ -24,11 +24,12 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-![covidapp1](https://user-images.githubusercontent.com/51479606/92599759-4e581d80-f2c8-11ea-95c2-2bb6eaa04976.jpg)
-![covidapp2](https://user-images.githubusercontent.com/51479606/92599773-51eba480-f2c8-11ea-96c6-2d76ff9b0322.jpg)
-![covidapp3](https://user-images.githubusercontent.com/51479606/92599786-5617c200-f2c8-11ea-9e9f-db67f60bc36e.jpg)
-![covidapp4](https://user-images.githubusercontent.com/51479606/92599794-59ab4900-f2c8-11ea-8a3b-8b13235395ac.jpg)
-![covidapp5](https://user-images.githubusercontent.com/51479606/92599805-5d3ed000-f2c8-11ea-96d6-63da5a78749b.jpg)
+![cp1](https://user-images.githubusercontent.com/51479606/92601132-1651da00-f2ca-11ea-9633-d5831a0ad3cc.jpg)
+![cp2](https://user-images.githubusercontent.com/51479606/92601147-19e56100-f2ca-11ea-985f-2863545f5996.jpg)
+![cp3](https://user-images.githubusercontent.com/51479606/92601168-1f42ab80-f2ca-11ea-9cd8-347f42b56260.jpg)
+![cp4](https://user-images.githubusercontent.com/51479606/92601185-24075f80-f2ca-11ea-8469-294c24f9ddc8.jpg)
+![cp5](https://user-images.githubusercontent.com/51479606/92601200-27025000-f2ca-11ea-81bd-1484a57985da.jpg)
+
 
 
 
