@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 # Screenshots
 
 ![covidapp1](https://user-images.githubusercontent.com/51479606/92596608-b2c4ae00-f2c3-11ea-8617-7ce913856d14.jpg)     ![covidapp2](https://user-images.githubusercontent.com/51479606/92597049-6ded4700-f2c4-11ea-9d9a-56d859b4c5fc.jpg)
-![covidfaq](https://user-images.githubusercontent.com/51479606/92598450-747cbe00-f2c6-11ea-88e3-b6acab718d08.jpg)
+![covid5app](https://user-images.githubusercontent.com/51479606/92598731-d3dace00-f2c6-11ea-8c97-edaa5d92ea7b.jpg)
+
 
 
 
